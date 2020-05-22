@@ -2,6 +2,7 @@ package com.vakkendwarf;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class App 
 {
@@ -64,6 +65,9 @@ public class App
         }
 
         currentRes.ConfirmReservation();
+
+	Scanner sc = new Scanner(System.in);
+	sc.nextLine(); // Pause output.
 
     }
 }
