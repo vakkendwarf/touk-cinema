@@ -21,5 +21,5 @@ If something goes wrong with compiling please use the precompiled jars available
 * For detailed information about the app's inner transactions enable debug in the App Class, and recompile.
 
 I hope it's up to your expectations
-And that we'll make a great team in the future
+and that we'll make a great team in the future
 <3
