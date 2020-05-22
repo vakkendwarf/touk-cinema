@@ -20,6 +20,8 @@ If something goes wrong with compiling please use the precompiled jars available
 
 * For detailed information about the app's inner transactions enable debug in the App Class, and recompile.
 
+* The database has prepared screenings around 2020-05-21 20:00 and 2020-05-22 20:00. You may add your own editing App.java, though.
+
 I hope it's up to your expectations
 and that we'll make a great team in the future
 <3
